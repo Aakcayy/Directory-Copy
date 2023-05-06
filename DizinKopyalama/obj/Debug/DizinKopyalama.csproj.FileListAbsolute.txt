@@ -1,0 +1,11 @@
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\bin\Debug\DizinKopyalama.exe.config
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\bin\Debug\DizinKopyalama.exe
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\bin\Debug\DizinKopyalama.pdb
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.csproj.AssemblyReference.cache
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.Form1.resources
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.Properties.Resources.resources
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.csproj.GenerateResource.cache
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.csproj.CoreCompileInputs.cache
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.exe
+C:\Users\Akcay\Desktop\DizinKopyalama\DizinKopyalama\obj\Debug\DizinKopyalama.pdb
